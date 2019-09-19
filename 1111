@@ -1,0 +1,53 @@
+            <div class="col-lg-2">
+              <ul class="services_list nav nav-pills mb-3" id="pills-tab" role="tablist">
+                <li class= services_list_item nav-item">
+                  <a class="nav-link active" id="pills-home-tab" data-toggle="pill" href="#pills-home" role="tab" aria-controls="pills-home" aria-selected="true"><img src="img/services/tabs/1.jpg" alt="Statistics"></a>
+                </li>
+                <li class="services_list_item nav-item">
+                  <a class="nav-link" id="pills-profile-tab" data-toggle="pill" href="#pills-profile" role="tab" aria-controls="pills-profile" aria-selected="false"><img src="img/services/tabs/2.jpg" alt="Settings"></a>
+                </li>
+                <li class="services_list_item nav-item">
+                  <a class="nav-link" id="pills-contact-tab" data-toggle="pill" href="#pills-contact" role="tab" aria-controls="pills-contact" aria-selected="false"><img src="img/services/tabs/3.jpg" alt="Search"></a>
+                </li>
+              </ul>
+            </div><!--row-меню боковое-->
+            <div class="col-lg-10 ">
+              <div class="services_info tab-content" id="pills-tabContent">
+
+               <div class="row tab-pane fade show active" id="pills-home" role="tabpanel" aria-labelledby="pills-home-tab">
+                <div class="col-lg-7">
+                  <h4>Modern App Design</h4>
+                  <span class="services-line"></span>
+                  <p>
+                  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ducimus earum totam ad sint error porro. Consectetur, sunt, aperiam. Magni rem optio distinctio illum consequuntur delectus nulla illo aperiam itaque cumque. <br><br>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel officia vitae eveniet quam rem unde facilis.
+                  </p>
+                  <button class="services-line-btn"><span class="btn_plus"></span>Know More</button>
+                </div>
+                <div class="col-lg-3"><img src="img/services/serv-picture/mob-1.jpg" alt="Watches"></div>
+                </div> <!--row-->
+
+               <div class="row tab-pane fade" id="pills-profile" role="tabpanel" aria-labelledby="pills-profile-tab">
+                <div class="col-lg-7">
+                  <h4>Modern Phone Design</h4>
+                  <span class="services-line"></span>
+                  <p>
+                  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ducimus earum totam ad sint error porro. Consectetur, sunt, aperiam. Magni rem optio distinctio illum consequuntur delectus nulla illo aperiam itaque cumque. <br><br>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel officia vitae eveniet quam rem unde facilis.
+                  </p>
+                  <button class="services-line-btn"><span class="btn_plus"></span>Know More</button>
+                </div>
+                <div class="col-lg-3"><img src="img/services/serv-picture/mob-2.jpg" alt="Watches"></div>
+                </div> <!--row-->
+
+               <div class="row tab-pane fade" id="pills-contact"  role="tabpanel" aria-labelledby="pills-contact-tab"">
+                <div class="col-lg-7">
+                  <h4>Modern Computer Design</h4>
+                  <span class="services-line"></span>
+                  <p>
+                  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ducimus earum totam ad sint error porro. Consectetur, sunt, aperiam. Magni rem optio distinctio illum consequuntur delectus nulla illo aperiam itaque cumque. <br><br>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel officia vitae eveniet quam rem unde facilis.
+                  </p>
+                  <button class="services-line-btn"><span class="btn_plus"></span>Know More</button>
+                </div>
+                <div class="col-lg-3"><img src="img/services/serv-picture/mob-3.jpg" alt="Watches"></div>
+                </div> <!--row-->
+
+              </div>
